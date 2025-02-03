@@ -1,0 +1,3 @@
+pycryptodome==3.20.0
+cloudscraper==1.2.71
+websocket==0.2.1
